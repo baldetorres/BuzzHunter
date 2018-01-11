@@ -1,0 +1,93 @@
+#startModal{
+    background: url(images/start.jpg);
+    background-size:cover;
+}
+
+#natureModal{
+    background: url(images/path0.jpg);
+    background-size:cover;
+
+}
+
+#natureModal2{
+    background: url(images/path1.jpg);
+    background-size:cover;
+}
+
+#natureModal3{
+    background: url(images/path2.jpg);
+    background-size:cover;
+}
+
+#natureModal4{
+    background: url(images/path3.jpg);
+    background-size:cover;
+}
+
+#natureModal5{
+    background: url(images/path4.jpg);
+    background-size:cover;
+}
+
+#psychModal{
+    background: url(images/path0.jpg);
+    background-size:cover;
+}
+
+#psychModal2{
+    background: url(images/psy1.jpg);
+    background-size:cover;
+}
+
+#psychModal3{
+    background: url(images/psy2.jpg);
+    background-size:cover;
+}
+
+#psychModal4{
+    background: url(images/psy3.jpg);
+    background-size:cover;
+}
+
+#psychModal5{
+    background: url(images/psy4.jpg);
+    background-size:cover;
+}
+
+#logo{
+    color: white;
+    font-family: 'Droid serif', serif;
+    font-size: 36px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 44px;
+    margin: 0 0 12px;
+    text-align: center;
+    margin-top: 10%;
+}
+
+#logo2{
+    color: white;
+    font-family: 'Droid serif', serif;
+    font-size: 36px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 44px;
+    margin: 0 0 12px;
+    text-align: center;
+}
+
+#nature-1, #nature-2, #nature-3, #nature-4, #nature-5,
+#psych-1, #psych-2, #psych-3, #psych-4, #psych-5{
+    margin-top: 60%;
+}
+
+button{
+    width:200px;
+}
+
+.button.btn.btn-lg.btn-primary.btn-customize {
+    color:white;
+    background: #FF8533;
+    border:white 1px solid;
+}
